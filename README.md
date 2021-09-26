@@ -1,0 +1,2 @@
+# Start
+Sample gitignore C++
